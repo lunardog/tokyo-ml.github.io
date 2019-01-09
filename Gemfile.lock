@@ -240,6 +240,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (>= 3.7.4)
+  rubyzip (>= 1.2.2)
 
 BUNDLED WITH
    2.0.1
